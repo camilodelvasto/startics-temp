@@ -2127,7 +2127,9 @@ h1.page-title:after{
 
 /* Lightbox customisation */
 
-
+.button-small {
+  font-size: 13px;
+}
 
 /* ==========================================================================
    13. Animations
